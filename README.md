@@ -1,12 +1,12 @@
 # 👨🏻‍💻 Diego Maia
 
-**Backend Developer | Python Enthusiast**
+**Backend Developer | Python & Golang Enthusiast**
 
 ---
 
 ## 👋 About Me
 Hi! I'm **Diego Maia**, a passionate backend developer from Brazil.  
-I focus on building efficient and scalable solutions, mainly using the Python ecosystem.  
+I focus on building efficient and scalable solutions, mainly using the Python ecosystem, and I’m currently exploring **Golang** as well.  
 
 Currently, I work as a **freelancer at Kodland** while pursuing my technology studies. My goal is to keep growing as a backend developer and contribute to impactful projects.  
 
@@ -15,7 +15,25 @@ Currently, I work as a **freelancer at Kodland** while pursuing my technology st
 ## 🛠️ Tech Stack
 
 **Languages**  
-- 🐍 Python  
+<p>
+  <img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+  />
+  <img 
+    align="left" 
+    alt="Golang" 
+    title="Golang"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg"
+  />
+</p>
+<br/>
 
 **Databases**  
 - 🗄️ PostgreSQL *(basic knowledge, currently learning more)*  
@@ -24,6 +42,7 @@ Currently, I work as a **freelancer at Kodland** while pursuing my technology st
 - API Development  
 - Backend Architecture  
 - System Design  
+- Exploring Golang  
 
 ---
 
@@ -44,6 +63,6 @@ Currently, I work as a **freelancer at Kodland** while pursuing my technology st
 ---
 
 ## 🚀 Goals
-To keep evolving as a **backend developer**, deepening my knowledge in Python and contributing to collaborative and impactful projects.  
+To keep evolving as a **backend developer**, mastering **Python** while expanding knowledge in **Golang**, and contributing to collaborative and impactful projects.  
 
 ---

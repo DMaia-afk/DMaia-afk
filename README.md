@@ -58,7 +58,7 @@ Currently, I work as a **freelancer at Kodland** while pursuing my technology st
 
 ## 🌐 Connect with Me
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/diego-maia-7259542aa])
+- 💼 [LinkedIn](https://www.linkedin.com/in/diego-maia-7259542aa)
 - 📧 **Email:** diego.trab202@gmail.com  
 
 ---

@@ -35,7 +35,7 @@ Currently, I work as a **freelancer at Kodland** while pursuing my technology st
 </p>
 <br/>
 
-
+\
 **Databases**  
 - 🗄️ PostgreSQL *(basic knowledge, currently learning more)*  
 

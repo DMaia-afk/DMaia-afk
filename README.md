@@ -35,6 +35,7 @@ Currently, I work as a **freelancer at Kodland** while pursuing my technology st
 </p>
 <br/>
 
+
 **Databases**  
 - 🗄️ PostgreSQL *(basic knowledge, currently learning more)*  
 
@@ -57,7 +58,7 @@ Currently, I work as a **freelancer at Kodland** while pursuing my technology st
 
 ## 🌐 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN)  
+- 💼 [LinkedIn]([https://www.linkedin.com/in/diego-maia-7259542aa])
 - 📧 **Email:** diego.trab202@gmail.com  
 
 ---

@@ -1,6 +1,7 @@
 # Diego Maia | Python Developer · Backend · Applied AI
 [![English](https://img.shields.io/badge/🌐_English-International-1f6feb?style=for-the-badge)](README.md)
 [![Português](https://img.shields.io/badge/🌐_Português-BR-238636?style=for-the-badge)](README.pt-BR.md)
+
 **Building practical software with Python, automation, data, and AI.**
 
 I'm Diego Maia, a developer from Brazil interested in turning complex workflows into useful, maintainable tools. I enjoy exploring how software, data, and artificial intelligence can solve real-world problems — from automating repetitive tasks to building local-first AI applications.

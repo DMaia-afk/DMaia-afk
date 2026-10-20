@@ -1,101 +1,103 @@
-# Diego Maia | Desenvolvedor Python · Backend · IA Aplicada
+# Diego Maia | Python Developer · Backend · Applied AI
 
-[![English](https://img.shields.io/badge/🌐_English-International-1f6feb?style=for-the-badge)](README.md)
-[![Português](https://img.shields.io/badge/🌐_Português-BR-238636?style=for-the-badge)](README.pt-BR.md)
+**Building practical software with Python, automation, data, and AI.**
 
-Desenvolvendo soluções práticas com **Python, backend, automação e inteligência artificial**.
+I'm Diego Maia, a developer from Brazil interested in turning complex workflows into useful, maintainable tools. I enjoy exploring how software, data, and artificial intelligence can solve real-world problems — from automating repetitive tasks to building local-first AI applications.
 
-Sou Diego Maia, desenvolvedor brasileiro interessado em transformar fluxos de trabalho complexos em ferramentas úteis e sustentáveis. Gosto de explorar como software, dados e IA podem resolver problemas reais — desde automatizar tarefas repetitivas até construir aplicações de IA executadas localmente.
+- 🐍 **Primary language:** Python
+- ⚙️ **Focus:** Backend development, automation, APIs, and applied AI
+- 🧠 **Currently learning:** Go, software architecture, and system design
+- 🎓 **Education:** Systems Analysis and Development
+- 🤝 **Professional experience:** Freelance programming tutor at Kodland
+- 🌎 **Languages:** Portuguese (native) · English (technical communication)
 
-- 🐍 **Linguagem principal:** Python
-- ⚙️ **Foco:** Desenvolvimento backend, automação, APIs e IA aplicada
-- 🧠 **Em aprendizado:** Go, arquitetura de software e design de sistemas
-- 🎓 **Atualmente:** Estudante de Análise e Desenvolvimento de Sistemas
-- 🤝 **Atuação:** Freelancer e tutor de programação na Kodland
-- 🌎 **Idiomas:** Português nativo e inglês para comunicação técnica
-
-**Tenho interesse em colaborar em projetos práticos de software, automação e IA.**
+I'm especially interested in projects that combine practical engineering, intelligent automation, and measurable results.
 
 ---
 
-## 🚀 Projetos em destaque
+## 🚀 Featured Projects
 
 ### 🎙️ [MeetSolution](https://github.com/DMaia-afk/MeetSolution---Quackme)
-**IA local para transcrição e resumo de reuniões**
 
-Projeto que explora como transformar gravações de reuniões em transcrições organizadas e resumos estruturados utilizando ferramentas de IA local.
+**Local-first AI for meeting transcription and summarization**
+
+An application focused on transforming meeting recordings into structured transcripts and summaries. The project explores local AI processing to reduce dependence on cloud services and provide greater control over meeting data.
 
 `Python` `WhisperX` `Ollama` `LangChain`
 
 ### 🛡️ [Message Spam Detector](https://github.com/DMaia-afk/Message-Spam-Detection---MSD)
-**Processamento de texto e classificação de spam**
 
-Projeto de machine learning voltado à limpeza e ao processamento de mensagens, explorando padrões textuais para classificar possíveis spams.
+**Natural language processing and spam classification**
 
-`Python` `Pandas` `Scikit-learn` `NLTK` `PLN`
+A machine learning project focused on text preprocessing, feature analysis, and message classification to identify patterns associated with spam.
+
+`Python` `Pandas` `Scikit-learn` `NLTK` `NLP`
 
 ### 🧪 [Chemistry Content Crew](https://github.com/DMaia-afk/MultAgents-Chemistry-Blog)
-**Fluxos multiagentes para conteúdo científico**
 
-Experimento com agentes de IA colaborando em pesquisa, estruturação, revisão e otimização de conteúdo.
+**Multi-agent workflows for scientific content**
+
+An experiment with AI agents collaborating on research, content organization, review, and optimization, exploring how multi-agent systems can support scientific communication.
 
 `Python` `CrewAI` `Ollama` `LLMs`
 
 ---
 
-## 🧰 Tecnologias
+## 🧰 Technical Skills
 
-| Área | Tecnologias |
+| Category | Technologies |
 |---|---|
-| **Linguagens** | Python · Go *(em aprendizado)* |
-| **Backend e APIs** | Django · APIs REST |
-| **Dados** | SQL · PostgreSQL · Pandas |
-| **IA aplicada** | LangChain · CrewAI · Ollama · LLMs |
-| **Automação** | Selenium · Shell Scripting · VBA |
-| **Ferramentas** | Git · Linux |
+| **Programming Languages** | Python · Go *(learning)* |
+| **Backend & APIs** | Django · REST APIs |
+| **Data & Databases** | SQL · PostgreSQL · Pandas |
+| **Applied AI** | LangChain · CrewAI · Ollama · LLMs |
+| **Automation** | Selenium · Shell Scripting · VBA |
+| **Tools & Environments** | Git · Linux |
 
-Continuo fortalecendo meus fundamentos e procuro escolher as ferramentas de acordo com o problema, não apenas pela popularidade.
-
----
-
-## 📈 Mentalidade de engenharia
-
-Valorizo software útil, compreensível e fácil de manter.
-
-- **Automação com impacto mensurável:** já trabalhei em automações que reduziram em aproximadamente **87% o tempo de processamento** de um fluxo específico.
-- **Resolução de problemas reais:** procuro processos repetitivos ou sujeitos a erros que possam ser melhorados com software.
-- **Aprendizado contínuo:** desenvolvo projetos para aprofundar meus conhecimentos em backend, dados e IA.
-- **Engenharia responsável:** valorizo documentação clara, reprodutibilidade e compreensão das vantagens e limitações das decisões técnicas.
-
-*A redução de 87% refere-se a um fluxo de trabalho específico, não a um benchmark universal.*
+I'm continuously strengthening my fundamentals and learning to choose technologies based on the problem being solved.
 
 ---
 
-## 📊 Atividade no GitHub
+## 📈 Engineering Mindset
+
+I value software that is useful, understandable, and maintainable.
+
+- **Automation with measurable impact:** I've worked on automation that reduced processing time by approximately **87%** in a specific workflow.
+- **Practical problem-solving:** I look for repetitive, time-consuming, or error-prone processes that can be improved through software.
+- **Continuous learning:** I build projects to deepen my understanding of backend development, data processing, and AI.
+- **Responsible engineering:** I value clear documentation, reproducibility, and understanding the trade-offs behind technical decisions.
+
+*The 87% figure refers to a specific workflow and should be understood in that context.*
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DMaia-afk&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub de Diego" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DMaia-afk&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Linguagens mais utilizadas" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DMaia-afk&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Diego's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DMaia-afk&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Most used programming languages" />
 </p>
 
 ---
 
-## 🤝 Vamos conversar?
+## 🤝 Let's Connect
 
-Estou aberto a colaborações relevantes, desafios interessantes de engenharia e oportunidades para crescer como desenvolvedor.
+I'm open to meaningful collaborations, interesting engineering challenges, and opportunities to grow as a developer.
 
 <p>
   <a href="https://www.linkedin.com/in/diego-maia-7259542aa">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Conectar no LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
   </a>
   <a href="mailto:diego.trab202@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail" />
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" />
   </a>
   <a href="https://github.com/DMaia-afk">
-    <img src="https://img.shields.io/badge/GitHub-Seguir-181717?style=for-the-badge&logo=github&logoColor=white" alt="Visitar GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="Visit GitHub" />
   </a>
 </p>
 
 ---
 
-*Construindo, aprendendo e evoluindo — um projeto por vez.*
+<p align="center">
+  <i>Building, learning, and improving — one project at a time.</i>
+</p>
